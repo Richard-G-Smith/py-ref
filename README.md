@@ -4,7 +4,7 @@ py-ref
 py-ref is an interactive Python reference sheet for Python 3 written in Python 3.
 The goal of py-ref is to provide a sort of cheat sheet for beginner programers new to Python.
 Many things in Python are easily forgotten or overlooked when first learning the language.
-The .py file is seperated into broad categories for easy reference to this information.
+The .py file is seperated into broad categories for easy reference.
 The .py fan can also be ran to show the output of the references.
 When possible, an effort has been made to make py-ref interactive, but not if it interferes with the intended puprose of easy reference.
 
