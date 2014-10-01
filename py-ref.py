@@ -34,8 +34,8 @@ print('You "Can" use double quotes easily inside single quotes.')
 print("")
 
 text = ("You can assign anything to a variable. "
-		"We are assigning these strings to the variable 'text'. "
-		"We Have also split it up between these three lines. It will treat this all like one line.")
+	"We are assigning these strings to the variable 'text'. "
+	"We Have also split it up between these three lines. It will treat this all like one line.")
 print(text)
 print()
 
