@@ -14,4 +14,4 @@ The .py fan can also be ran to show the output of the references.
     It is intened to be a suplimental learning tool.
 
 
-For those wishing to learn Python, I recommend Learn Python the Hard Way. As a word of caution, this book uses Python 2. There are differences between Python 2 and Python 3, and those will need to be addressed. I'm currently looking for a Python 3 guide that is as good as Learn Python the Hard Way.
+I am actively expanding py-ref with additional information.
