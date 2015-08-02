@@ -5,9 +5,9 @@ print("\n") # \n makes a new line.
 print("1. Printing")
 print() # An empty print statement also makes a new line.
 
-print("This is a basic print function.") # This is a comment. It Can go at the end of a line.
+print("This is a basic print function.") # This is a comment. It can go at the end of a line.
 # Or a comment can go on it's own line.
-print("Use single or double quotes to surround the string")
+print('Use single or double quotes to surround the string')
 # Don't forget to put everything inside the (parenthesis) of the print function.
 
 """
@@ -30,12 +30,12 @@ if you do not want it to break.
 
 print("You can use 'single' quotes inside or escape out the \"Double\" quotes.")
 print('You can not use single quotes here unless you\'ve escaped them out.')
-print('You "Can" use double quotes easily inside single quotes.')
+print('You "can" use double quotes easily inside single quotes.')
 print("")
 
 text = ("You can assign anything to a variable. "
 	"We are assigning these strings to the variable 'text'. "
-	"We Have also split it up between these three lines. It will treat this all like one line.")
+	"We can also split it up between these three lines. It will treat this all like one line.")
 print(text)
 print()
 
