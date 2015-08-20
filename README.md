@@ -7,7 +7,7 @@ Many things in Python are easily forgotten or overlooked when first learning the
 py-ref provides working examples of commonly used syntax and general principals.
 
 The .py file is seperated into broad categories for easy reference.
-The .py fan can also be ran to show the output of the references.
+The .py file can also be ran to show the output of the references.
 
 
     py-ref is not a tutorial or learning guide.
