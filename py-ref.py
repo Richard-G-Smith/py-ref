@@ -50,6 +50,18 @@ print()
 print("Py" "thon")
 print()
 
+a = "Py"
+b = "thon"
+
+print("This is %s and %s, also known as %s%s." % (a,b,a,b))
+
+formatter = "%r %r %r %r"
+print(formatter % (1,2,3,4))
+
+
+theName = input("What is your name?")
+print("Hi", theName)
+
 
 # Math
 print("\n2. Math\n\n") # You can combine the line breaks into one line.
@@ -59,4 +71,26 @@ print("The number forty-two will appear over there ->", 40 + 2)
 # The first part is a string, the second part contains integers.
 n = 40
 print("The number", n, "is stored in 'n'. The number", n + 2, "is n + 2.")
-print("The number", n, "times 2 is ", n * 2)
+print("The number", n, "times 2 is ", n * 2) # You can use commas to split up multiple parts.
+print("The number " + str(n) + " divided by 2 is " + str(n/2)) # You can split up things like this as well.
+
+
+# Lists
+print("\n3. Lists\n\n")
+
+movies = ["Avengers", "Thor", "Captain America", "Guardians of the Galaxy"]
+print(movies)
+print(movies[3])
+
+# Variables
+print("\n4. Variables\n\n")
+
+
+# Functions
+print ("\n5. Functions\n\n")
+
+
+# Dictionaries
+print ("\n6. Dictionaries\n\n")
+
+
