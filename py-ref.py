@@ -4,6 +4,7 @@
 print("\n") # \n makes a new line.
 print("1. Printing")
 print() # An empty print statement also makes a new line.
+print()
 
 print("This is a basic print function.") # This is a comment. It can go at the end of a line.
 # Or a comment can go on it's own line.
@@ -33,10 +34,10 @@ print('You can not use single quotes here unless you\'ve escaped them out.')
 print('You "can" use double quotes easily inside single quotes.')
 print("")
 
-text = ("You can assign anything to a variable. "
+text1 = ("You can assign anything to a variable. "
 	"We are assigning these strings to the variable 'text'. "
 	"We can also split it up between these three lines. It will treat this all like one line.")
-print(text)
+print(text1)
 print()
 
 x = "Ha" # This is a string assigned to the variable 'x'.
@@ -51,10 +52,11 @@ print()
 
 
 # Math
-print("\n2. Math\n") # You can combine the line breaks into one line.
+print("\n2. Math\n\n") # You can combine the line breaks into one line.
 
 print("The number forty-two will appear over there ->", 40 + 2)
 # Use a comma to separate the the two parts of this print statement.
 # The first part is a string, the second part contains integers.
 n = 40
 print("The number", n, "is stored in 'n'. The number", n + 2, "is n + 2.")
+print("The number", n, "times 2 is ", n * 2)
